@@ -1,0 +1,207 @@
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman\Hangman\bin\Debug\Hangman.exe.config
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman\Hangman\bin\Debug\Hangman.exe
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman\Hangman\bin\Debug\Hangman.pdb
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman\Hangman\bin\Debug\Hangman.xml
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman\Hangman\obj\Debug\Hangman.Resources.resources
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman\Hangman\obj\Debug\Hangman.exe
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman\Hangman\obj\Debug\Hangman.xml
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman\Hangman\obj\Debug\Hangman.pdb
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman\Hangman\obj\Debug\Hangman.Form2.resources
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-master\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-master\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-master\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-master\Hangman\Hangman\bin\Debug\Hangman.xml
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-master\Hangman\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-master\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-master\Hangman\Hangman\obj\Debug\Hangman.Form2.resources
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-master\Hangman\Hangman\obj\Debug\Hangman.Resources.resources
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-master\Hangman\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-master\Hangman\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-master\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-master\Hangman\Hangman\obj\Debug\Hangman.xml
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-master\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\Morten\Downloads\Team7-Hangman-ivilivis-patch-1 (1)\Team7-Hangman-ivilivis-patch-1\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Morten\Downloads\Team7-Hangman-ivilivis-patch-1 (1)\Team7-Hangman-ivilivis-patch-1\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Morten\Downloads\Team7-Hangman-ivilivis-patch-1 (1)\Team7-Hangman-ivilivis-patch-1\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Morten\Downloads\Team7-Hangman-ivilivis-patch-1 (1)\Team7-Hangman-ivilivis-patch-1\Hangman\Hangman\bin\Debug\Hangman.xml
+C:\Users\Morten\Downloads\Team7-Hangman-ivilivis-patch-1 (1)\Team7-Hangman-ivilivis-patch-1\Hangman\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+C:\Users\Morten\Downloads\Team7-Hangman-ivilivis-patch-1 (1)\Team7-Hangman-ivilivis-patch-1\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+C:\Users\Morten\Downloads\Team7-Hangman-ivilivis-patch-1 (1)\Team7-Hangman-ivilivis-patch-1\Hangman\Hangman\obj\Debug\Hangman.Form2.resources
+C:\Users\Morten\Downloads\Team7-Hangman-ivilivis-patch-1 (1)\Team7-Hangman-ivilivis-patch-1\Hangman\Hangman\obj\Debug\Hangman.Resources.resources
+C:\Users\Morten\Downloads\Team7-Hangman-ivilivis-patch-1 (1)\Team7-Hangman-ivilivis-patch-1\Hangman\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+C:\Users\Morten\Downloads\Team7-Hangman-ivilivis-patch-1 (1)\Team7-Hangman-ivilivis-patch-1\Hangman\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+C:\Users\Morten\Downloads\Team7-Hangman-ivilivis-patch-1 (1)\Team7-Hangman-ivilivis-patch-1\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\Morten\Downloads\Team7-Hangman-ivilivis-patch-1 (1)\Team7-Hangman-ivilivis-patch-1\Hangman\Hangman\obj\Debug\Hangman.xml
+C:\Users\Morten\Downloads\Team7-Hangman-ivilivis-patch-1 (1)\Team7-Hangman-ivilivis-patch-1\Hangman\Hangman\obj\Debug\Hangman.pdb
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman-kneecaps-patch-2\Hangman\Hangman\bin\Debug\Hangman.exe.config
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman-kneecaps-patch-2\Hangman\Hangman\bin\Debug\Hangman.exe
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman-kneecaps-patch-2\Hangman\Hangman\bin\Debug\Hangman.pdb
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman-kneecaps-patch-2\Hangman\Hangman\bin\Debug\Hangman.xml
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman-kneecaps-patch-2\Hangman\Hangman\obj\Debug\Hangman.Form1.resources
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman-kneecaps-patch-2\Hangman\Hangman\obj\Debug\Hangman.Form2.resources
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman-kneecaps-patch-2\Hangman\Hangman\obj\Debug\Hangman.Resources.resources
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman-kneecaps-patch-2\Hangman\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman-kneecaps-patch-2\Hangman\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman-kneecaps-patch-2\Hangman\Hangman\obj\Debug\Hangman.exe
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman-kneecaps-patch-2\Hangman\Hangman\obj\Debug\Hangman.xml
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Hangman-kneecaps-patch-2\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3 (1)\Team7-Hangman-KneeCapz-patch-3\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3 (1)\Team7-Hangman-KneeCapz-patch-3\Hangman\bin\Debug\Hangman.exe
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3 (1)\Team7-Hangman-KneeCapz-patch-3\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3 (1)\Team7-Hangman-KneeCapz-patch-3\Hangman\bin\Debug\Hangman.xml
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3 (1)\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3 (1)\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.Form1.resources
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3 (1)\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.Form2.resources
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3 (1)\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.Resources.resources
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3 (1)\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3 (1)\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3 (1)\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.exe
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3 (1)\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.xml
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3 (1)\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.pdb
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3\Hangman\bin\Debug\Hangman.exe
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3\Hangman\bin\Debug\Hangman.xml
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.Form1.resources
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.Form2.resources
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.Resources.resources
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.exe
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.xml
+C:\Users\Miner2\OneDrive - NTNU\IFUD1105 Teamarbeid\Team7-Hangman-KneeCapz-patch-3\Hangman\obj\Debug\Hangman.pdb
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.Form1.resources
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.Form2.resources
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.Resources.resources
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.exe
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.xml
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.pdb
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Team7-Hangman-ivilivis-patch-3\Hangman\bin\Debug\Hangman.exe.config
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Team7-Hangman-ivilivis-patch-3\Hangman\bin\Debug\Hangman.exe
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Team7-Hangman-ivilivis-patch-3\Hangman\bin\Debug\Hangman.pdb
+E:\Dropbox\IT NTNU\teamarbeid\prosjekt\Spill\Team7-Hangman-ivilivis-patch-3\Hangman\bin\Debug\Hangman.xml
+F:\Team7-Hangman-ivilivis-patch-3\Hangman\bin\Debug\Hangman.exe.config
+F:\Team7-Hangman-ivilivis-patch-3\Hangman\bin\Debug\Hangman.exe
+F:\Team7-Hangman-ivilivis-patch-3\Hangman\bin\Debug\Hangman.pdb
+F:\Team7-Hangman-ivilivis-patch-3\Hangman\bin\Debug\Hangman.xml
+F:\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+F:\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.Form1.resources
+F:\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.Form2.resources
+F:\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.Resources.resources
+F:\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+F:\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+F:\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.exe
+F:\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.xml
+F:\Team7-Hangman-ivilivis-patch-3\Hangman\obj\Debug\Hangman.pdb
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_7\Hangman\bin\Debug\Hangman.exe.config
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_7\Hangman\bin\Debug\Hangman.exe
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_7\Hangman\bin\Debug\Hangman.pdb
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_7\Hangman\bin\Debug\Hangman.xml
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_7\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_7\Hangman\obj\Debug\Hangman.Form1.resources
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_7\Hangman\obj\Debug\Hangman.Form2.resources
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_7\Hangman\obj\Debug\Hangman.Resources.resources
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_7\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_7\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_7\Hangman\obj\Debug\Hangman.exe
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_7\Hangman\obj\Debug\Hangman.xml
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_7\Hangman\obj\Debug\Hangman.pdb
+F:\team 7 temp\Team7-Hangman-0_7b\Hangman\bin\Debug\Hangman.exe.config
+F:\team 7 temp\Team7-Hangman-0_7b\Hangman\bin\Debug\Hangman.exe
+F:\team 7 temp\Team7-Hangman-0_7b\Hangman\bin\Debug\Hangman.pdb
+F:\team 7 temp\Team7-Hangman-0_7b\Hangman\bin\Debug\Hangman.xml
+F:\team 7 temp\Team7-Hangman-0_7b\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+F:\team 7 temp\Team7-Hangman-0_7b\Hangman\obj\Debug\Hangman.Form1.resources
+F:\team 7 temp\Team7-Hangman-0_7b\Hangman\obj\Debug\Hangman.Form2.resources
+F:\team 7 temp\Team7-Hangman-0_7b\Hangman\obj\Debug\Hangman.Resources.resources
+F:\team 7 temp\Team7-Hangman-0_7b\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+F:\team 7 temp\Team7-Hangman-0_7b\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+F:\team 7 temp\Team7-Hangman-0_7b\Hangman\obj\Debug\Hangman.exe
+F:\team 7 temp\Team7-Hangman-0_7b\Hangman\obj\Debug\Hangman.xml
+F:\team 7 temp\Team7-Hangman-0_7b\Hangman\obj\Debug\Hangman.pdb
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_8\Hangman\bin\Debug\Hangman.exe.config
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_8\Hangman\bin\Debug\Hangman.exe
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_8\Hangman\bin\Debug\Hangman.pdb
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_8\Hangman\bin\Debug\Hangman.xml
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.Form1.resources
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.Form2.resources
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.Resources.resources
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.exe
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.xml
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.pdb
+F:\team 7 temp\Team7-Hangman-0_8\Hangman\bin\Debug\Hangman.exe.config
+F:\team 7 temp\Team7-Hangman-0_8\Hangman\bin\Debug\Hangman.exe
+F:\team 7 temp\Team7-Hangman-0_8\Hangman\bin\Debug\Hangman.pdb
+F:\team 7 temp\Team7-Hangman-0_8\Hangman\bin\Debug\Hangman.xml
+F:\team 7 temp\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+F:\team 7 temp\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.Form1.resources
+F:\team 7 temp\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.Form2.resources
+F:\team 7 temp\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.Resources.resources
+F:\team 7 temp\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+F:\team 7 temp\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+F:\team 7 temp\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.exe
+F:\team 7 temp\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.xml
+F:\team 7 temp\Team7-Hangman-0_8\Hangman\obj\Debug\Hangman.pdb
+F:\team 7 temp\Team7-Hangman-0_9\Hangman\bin\Debug\Hangman.exe.config
+F:\team 7 temp\Team7-Hangman-0_9\Hangman\bin\Debug\Hangman.exe
+F:\team 7 temp\Team7-Hangman-0_9\Hangman\bin\Debug\Hangman.pdb
+F:\team 7 temp\Team7-Hangman-0_9\Hangman\bin\Debug\Hangman.xml
+F:\team 7 temp\Team7-Hangman-0_9\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+F:\team 7 temp\Team7-Hangman-0_9\Hangman\obj\Debug\Hangman.Form1.resources
+F:\team 7 temp\Team7-Hangman-0_9\Hangman\obj\Debug\Hangman.Form2.resources
+F:\team 7 temp\Team7-Hangman-0_9\Hangman\obj\Debug\Hangman.Resources.resources
+F:\team 7 temp\Team7-Hangman-0_9\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+F:\team 7 temp\Team7-Hangman-0_9\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+F:\team 7 temp\Team7-Hangman-0_9\Hangman\obj\Debug\Hangman.exe
+F:\team 7 temp\Team7-Hangman-0_9\Hangman\obj\Debug\Hangman.xml
+F:\team 7 temp\Team7-Hangman-0_9\Hangman\obj\Debug\Hangman.pdb
+F:\team 7 temp\Team7-Hangman-0_10\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+F:\team 7 temp\Team7-Hangman-0_10\Hangman\obj\Debug\Hangman.Form1.resources
+F:\team 7 temp\Team7-Hangman-0_10\Hangman\obj\Debug\Hangman.Form2.resources
+F:\team 7 temp\Team7-Hangman-0_10\Hangman\obj\Debug\Hangman.Resources.resources
+F:\team 7 temp\Team7-Hangman-0_10\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+F:\team 7 temp\Team7-Hangman-0_10\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+F:\team 7 temp\Team7-Hangman-0_10\Hangman\obj\Debug\Hangman.exe
+F:\team 7 temp\Team7-Hangman-0_10\Hangman\obj\Debug\Hangman.xml
+F:\team 7 temp\Team7-Hangman-0_10\Hangman\obj\Debug\Hangman.pdb
+F:\team 7 temp\Team7-Hangman-0_10\Hangman\bin\Debug\Hangman.exe.config
+F:\team 7 temp\Team7-Hangman-0_10\Hangman\bin\Debug\Hangman.exe
+F:\team 7 temp\Team7-Hangman-0_10\Hangman\bin\Debug\Hangman.pdb
+F:\team 7 temp\Team7-Hangman-0_10\Hangman\bin\Debug\Hangman.xml
+F:\team 7 temp\Team7-Hangman-0_11\Hangman\bin\Debug\Hangman.exe.config
+F:\team 7 temp\Team7-Hangman-0_11\Hangman\bin\Debug\Hangman.exe
+F:\team 7 temp\Team7-Hangman-0_11\Hangman\bin\Debug\Hangman.pdb
+F:\team 7 temp\Team7-Hangman-0_11\Hangman\bin\Debug\Hangman.xml
+F:\team 7 temp\Team7-Hangman-0_11\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+F:\team 7 temp\Team7-Hangman-0_11\Hangman\obj\Debug\Hangman.Form1.resources
+F:\team 7 temp\Team7-Hangman-0_11\Hangman\obj\Debug\Hangman.Form2.resources
+F:\team 7 temp\Team7-Hangman-0_11\Hangman\obj\Debug\Hangman.Resources.resources
+F:\team 7 temp\Team7-Hangman-0_11\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+F:\team 7 temp\Team7-Hangman-0_11\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+F:\team 7 temp\Team7-Hangman-0_11\Hangman\obj\Debug\Hangman.exe
+F:\team 7 temp\Team7-Hangman-0_11\Hangman\obj\Debug\Hangman.xml
+F:\team 7 temp\Team7-Hangman-0_11\Hangman\obj\Debug\Hangman.pdb
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_12\Hangman\obj\Debug\Hangman.vbprojAssemblyReference.cache
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_12\Hangman\obj\Debug\Hangman.Form1.resources
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_12\Hangman\obj\Debug\Hangman.Form2.resources
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_12\Hangman\obj\Debug\Hangman.Resources.resources
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_12\Hangman\obj\Debug\Hangman.vbproj.GenerateResource.cache
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_12\Hangman\obj\Debug\Hangman.vbproj.CoreCompileInputs.cache
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_12\Hangman\obj\Debug\Hangman.exe
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_12\Hangman\obj\Debug\Hangman.xml
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_12\Hangman\obj\Debug\Hangman.pdb
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_12\Hangman\bin\Debug\Hangman.exe.config
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_12\Hangman\bin\Debug\Hangman.exe
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_12\Hangman\bin\Debug\Hangman.pdb
+E:\NTNU\Ivar Johannes Sørelvmo Johansen - Team 7\Hangman\Team7-Hangman-0_12\Hangman\bin\Debug\Hangman.xml
